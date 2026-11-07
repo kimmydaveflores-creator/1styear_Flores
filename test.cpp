@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace sta;
+using namespace std;
 
 int main () {
     cout << "Hello, World!" << endl;
